@@ -1,2 +1,2 @@
 # perc_model
-perc1&amp;perc2 model for ANDES
+perc1&perc2 model, their test results and simulation results for ANDES
